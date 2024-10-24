@@ -75,8 +75,8 @@
     }
 
     #btnD {
+        background-color:white;
         position:absolute; top:530px; left:15%; width:70%; height:200px; 
-
     }
     img{
         max-width: 100%;
